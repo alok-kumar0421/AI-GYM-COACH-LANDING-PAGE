@@ -6,7 +6,7 @@ The website provides an overview of the project, its features, technology stack,
 
 ## Live Website
 
-🌐 https://gymai.alokteh.in
+🌐 https://gymai.aloktech.in
 
 ## About The Project
 
@@ -33,7 +33,7 @@ This landing page was created to present the project in a clean and user-friendl
 
 ### Live Demo
 
-https://gymai.alokteh.in
+https://gymai.aloktech.in
 
 ### Main Application Repository
 
